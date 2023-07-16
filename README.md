@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Backend Engineer
 ----------------
 
-*   🌍  I'm based in Abuja
 *   🖥️  See my portfolio at [BongDev](http://bongdev.vercel.app/)
 *   ✉️  You can contact me at [bongshime@gmail.com](mailto:bongshime@gmail.com)
 <!-- *   🚀  I'm currently working on [CV Studio](http://resume-fullstack-next.vercel.app/)
